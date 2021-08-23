@@ -1,0 +1,39 @@
+
+YT: https://www.youtube.com/watch?v=VqgTr-nd7Cg
+How to Build a TODO app with React + Firebase (LIVE)
+
+
+//Firebase
+
+ - Crear nuevo proyecto, configuracion, nueva app </>
+
+ - comando: npm install -g firebase-tools
+
+//React
+//TODO app
+//Deploy online
+//Database
+
+Task List:
+
+Instalar Material UI: npm install @material-ui/core
+
+: npm i firebase
+
+------------ iconos en navegador
+https://matthewpalmer.net/rocket/
+
+------------
+> firebase init
+> seleccionar hosting , proyecto existenen, seleccioanr cual, luego ingresar build y "Y", luego N,
+y luego > npm run build
+>firebase deploy
+
+Finalmente:
+Link:https://todo-app-cp-303cc.web.app/
+
+---------- icons de Material UI
+npm install @material-ui/icons
+
+------
+>npm run build && firebase deploy
