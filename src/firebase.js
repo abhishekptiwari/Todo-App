@@ -1,4 +1,5 @@
 import firebase from 'firebase'
+
 const firebaseApp = firebase.initializeApp({
     apiKey: "AIzaSyAdstwVbll7Kz126zBX-zjCjG65HOTj5bkk",
         authDomain: "todo-app-cp-303cc.firebaseqapp.com",
